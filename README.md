@@ -8,6 +8,7 @@
 ## 🧑‍💻 About Me
 
 I'm currently working as a **Divisional Engineer (IT&C)** at **WBSEDCL**, where I lead planning, implementation, and optimization of SCADA systems across 100+ substations and 700+ RMUs. I have also done Communication Testing of approximately 37 lacs Consumer, DTR and Feeder Smart Meters along with Integration Testing between Smart Meters, HES, MDM for efficient operation.  
+
 Previously, I served as an **Assistant Engineer**, managing metering,billing and collection systems across districts in West Bengal where I built multiple monthly and fortnightly data models and comparison reports using SQL, Excel, PowerBI to assess and provide insights regarding billing and collection resulting in a reduction of AT&C Losses by more than 20%.
 
 My work blends **SCADA automation**, **data modeling**, and **visual storytelling** via dashboards that drive measurable efficiency—reducing downtime and boosting revenue.
