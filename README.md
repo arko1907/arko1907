@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 I'm currently working as a **Divisional Engineer (IT&C)** at **WBSEDCL**, where I lead planning, implementation, and optimization of SCADA systems across 100+ substations and 700+ RMUs. I have also done Communication Testing of approximately 37 lacs Consumer, DTR and Feeder Smart Meters along with Integration Testing between Smart Meters, HES, MDM for efficient operation.  
-Previously, I served as an **Assistant Engineer**, managing metering,billing and collection systems across districts in West Bengal.
+Previously, I served as an **Assistant Engineer**, managing metering,billing and collection systems across districts in West Bengal where I built multiple monthly and fortnightly data models and comparison reports using SQL, Excel, PowerBI to assess and provide insights regarding billing and collection resulting in a reduction of AT&C Losses by more than 20%.
 
 My work blends **SCADA automation**, **data modeling**, and **visual storytelling** via dashboards that drive measurable efficiency—reducing downtime and boosting revenue.
 
@@ -19,7 +19,7 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
 **Languages**: SQL, Python, C, C++, MATLAB  
 **Data & Analytics**: Power BI, Excel, Tableau, DB2, MySQL  
 **Domains**: Data Visualization, Image Processing, ETL, Networking, Steganography  
-**Soft Skills**: Team Leadership, Project Planning, Technical Documentation
+**Soft Skills**: Team Leadership, Project Planning, Technical Documentation, Empathy
 
 ---
 
@@ -29,7 +29,7 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
 - ⚙️ Led communication testing & HES/MDM integration for **3.7 million smart meters**.
 - 📉 Delivered SQL- and Excel-driven analytics that cut AT&C losses by **20%**.
 - 🥇 Ranked **All-India #1** in WBSEDCL Assistant Engineer recruitment (2013).
-- 🥇 Ranked **1st** in all semesters of B.E
+- 🥇 Ranked **1st** in all semesters of B.E.
 
 ---
 
@@ -44,9 +44,13 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
 
 ## 🧪 Research & Projects
 
-- 🎧 **Audio & Image Steganography** using MATLAB  
-  - Published in: *International Journal of Computer Applications*, *Journal of Computing*
-- 🧠 **Neural Network Prediction** for dual-phase steel properties  
+- 🎧 **Audio,Image & Video Steganography** using MATLAB  
+  - Papers published :-
+  - *A Novel Audio Steganography Technique by M16MA method* [International Journal of Computer Applications(VOl-30,No-8),September 2011](https://github.com/arko1907)
+  - *Audio Steganography Using MOD 4 method* [Journal Of Computing,Vol-3,Issue-8,August 2011.(ISSN-2151-9617)](https://github.com/arko1907)
+  - *Hiding Data in Images Using Mode 16 Method (M16M)* [National Conference on Emerging Trends In Electronics & Communication](https://github.com/arko1907)
+
+- 🧠 **Prediction of Mechanical Properties of Dual Phase Steel** using MATLAB
   - Applied morphological analysis to microstructures for property prediction
 
 ---
