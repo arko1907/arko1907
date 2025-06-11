@@ -47,7 +47,7 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
 
 - 🎧 **Audio,Image & Video Steganography** using MATLAB  
   - Papers published :-
-  - *A Novel Audio Steganography Technique by M16MA method* [International Journal of Computer Applications(VOl-30,No-8),September 2011](https://github.com/arko1907)
+  - *A Novel Audio Steganography Technique by M16MA method* [International Journal of Computer Applications(VOl-30,No-8),Sep-2011](https://github.com/arko1907)
   - *Audio Steganography Using MOD 4 method* [Journal Of Computing,Vol-3,Issue-8,August 2011.(ISSN-2151-9617)](https://github.com/arko1907)
   - *Hiding Data in Images Using Mode 16 Method (M16M)* [National Conference on Emerging Trends In Electronics & Communication](https://github.com/arko1907)
 
@@ -58,15 +58,13 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
 
 ## 📜 Certifications
 
-- ✅ **GATE 2011** – 97.13 percentile
-- 
+- ✅ **GATE 2011** – 97.13 percentile 
 - ✅ **SET 2014** – 79.33%
-- - 📄 [`SET Certificate`](https://github.com/arko1907/Certificates/blob/main/SET%202014%20Certificate.pdf)  
-  - 🖼 [`SET Result Snapshot`](https://github.com/arko1907/Certificates/blob/main/Set_Result_Arko.jpg)
-
+   - 📄 [`SET Certificate`](https://github.com/arko1907/Certificates/blob/main/SET%202014%20Certificate.pdf)  
+   - 📄 [`SET Scorecard`](https://github.com/arko1907/Certificates/blob/main/Set_Result_Arko.jpg)
 - ✅ **NET (CS) 2014** – 67.43%
-- - 📄 [`NET Certificate`](https://github.com/arko1907/Certificates/blob/main/net_2014_Certificate.pdf)  
--   📄 [`NET Scorecard`](https://github.com/arko1907/Certificates/blob/main/UGC%20NET%20Result_Arko.pdf)
+   - 📄 [`NET Certificate`](https://github.com/arko1907/Certificates/blob/main/net_2014_Certificate.pdf)  
+   - 📄 [`NET Scorecard`](https://github.com/arko1907/Certificates/blob/main/UGC%20NET%20Result_Arko.pdf)
 
 ---
 
