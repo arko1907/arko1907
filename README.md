@@ -52,15 +52,21 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
   - *Hiding Data in Images Using Mode 16 Method (M16M)* [National Conference on Emerging Trends In Electronics & Communication](https://github.com/arko1907)
 
 - 🧠 **Prediction of Mechanical Properties of Dual Phase Steel** using MATLAB
-  - Applied morphological analysis to microstructures for property prediction
+  - Applied morphological analysis to Steel microstructures for property prediction 
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **GATE 2011** – 97.13 percentile  
-- ✅ **SET 2014** – 79.33%  
+- ✅ **GATE 2011** – 97.13 percentile
+- 
+- ✅ **SET 2014** – 79.33%
+- - 📄 [`SET Certificate`](https://github.com/arko1907/Certificates/blob/main/SET%202014%20Certificate.pdf)  
+  - 🖼 [`SET Result Snapshot`](https://github.com/arko1907/Certificates/blob/main/Set_Result_Arko.jpg)
+
 - ✅ **NET (CS) 2014** – 67.43%
+- - 📄 [`NET Certificate`](https://github.com/arko1907/Certificates/blob/main/net_2014_Certificate.pdf)  
+-   📄 [`NET Scorecard`](https://github.com/arko1907/Certificates/blob/main/UGC%20NET%20Result_Arko.pdf)
 
 ---
 
