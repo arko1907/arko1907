@@ -26,7 +26,7 @@ My work blends **SCADA automation**, **data modeling**, and **visual storytellin
 ## 🏆 Highlights
 
 - 🧠 Built interactive Power BI SCADA dashboards — reduced man-hours by **80%**.
-- ⚙️ Led communication testing & HES/MDM integration for **3.7 million smart meters**.
+- ⚙️ Led communication testing & HES/MDM integration for **6 lakh smart meters**.
 - 📉 Delivered SQL- and Excel-driven analytics that cut AT&C losses by **20%**.
 - 🥇 Ranked **All-India #1** in WBSEDCL Assistant Engineer recruitment (2013).
 - 🥇 Ranked **1st** in all semesters of B.E.
